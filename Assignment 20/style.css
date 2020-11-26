@@ -1,0 +1,32 @@
+body{
+    background-color:darkmagenta;
+    border: double 40px grey;
+    margin: 0px;
+}
+.heading{
+    margin: 0px;
+    background-color: lightseagreen;
+    border:  green 30px dotted;
+    text-decoration: underline   magenta 15px ;
+    font-weight: 900;
+    font-size: 100px;
+}
+.heading2{
+    background-color: darksalmon;
+    padding: 10px;
+    font-size: 30px;
+    border: solid black 10px;
+}
+.heading3{
+    background-color: white;
+    margin-left:100px;
+    margin-right: 100px;
+    border: inset blue 5px;
+    text-decoration: underline;
+}
+.list{
+    background-color: darkturquoise;
+    font-size: 25px;
+    font-weight: 900;
+    border:dotted black 10px;
+}
